@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on °°ºº°°°ª°ªªºªºªº°ª°ª°°ª°°°°ª°ª°ª°ª°
 - 📫 How to reach me nklrncext@gmail.com | discord - arc_second / nuclear_leak | or just........................................................................ find where i live
-- 😄 Pronouns: he/him/you/me/gas/station
+- 😄 Pronouns: she/her/you/me/gas/station
 - ⚡ Fun fact: cats are liquid
 
 <!---
