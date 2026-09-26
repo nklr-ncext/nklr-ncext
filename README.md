@@ -11,26 +11,37 @@ Tenho objetivo de criar projetos e eventualmente obter uma posição de desenvol
 Habilidades em desenvolvimento:
 
 +Estruturação de páginas com HTML5
+
 +Estilização e layouts responsivos com CSS3
+
 +Lógica de programação e manipulação do DOM com JavaScript
+
 +Desenvolvimento de interfaces e componentes com React
+
 +Boas práticas de organização e reutilização de código
+
 
 ⚙️ Back-end
 <div> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" /> </div>
 Habilidades em desenvolvimento:
 
 +Criação de aplicações utilizando Node.js
+
 +Desenvolvimento de APIs
+
 +Integração entre front-end e back-end
+
 +Bancos de dados e consultas utilizando SQL
+
 +Organização da lógica e regras de negócio
+
 
 📱 Mobile & Desktop
 <div> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" /> </div>
 Atualmente também estou desenvolvendo conhecimentos em:
 
 +[dispositivos moveis] React Native — desenvolvimento de aplicações mobile
+
 +[computadores de mesa ou portaveis] Electron — desenvolvimento de aplicações desktop
 
 🔧 Versionamento
